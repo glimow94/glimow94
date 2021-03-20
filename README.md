@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @glimow94
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on Web App startups
+- 📫 How to reach me gdipiazza994@gmail.com
